@@ -10,13 +10,13 @@ body {
 
 h1 {
     font-size: calc(25px + 1vw);
-    margin-bottom: 3px;
+    margin-bottom: 1px;
 }
 h2 {
-    font-size: calc(14px + 0.7vw);
+    font-size: calc(12px + 0.7vw);
     margin-top: 0em;
 }
 p {
-    font-size: calc(10px + 0.7vw);
+    font-size: calc(10px + 0.6vw);
     margin-top: 0em;
 }
